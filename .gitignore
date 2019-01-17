@@ -1,0 +1,5 @@
+/lustre/kritib/models/Forced-Lorenz-Model/fcst
+*.npy
+*.pyc
+*.png
+*.eps
